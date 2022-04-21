@@ -15,7 +15,7 @@ keywords = ["matrix", "exponential", "linalg", "ndarray", "expm"]
 cblas = "0.2"
 condest = "0.2"
 lapacke = "0.2"
-ndarray = "0.12"
+ndarray = "0.15"
 statrs = "0.10"
 
 [dev-dependencies]
